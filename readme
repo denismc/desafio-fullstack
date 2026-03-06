@@ -1,0 +1,23 @@
+# Desafio Fullstack - Formulário
+
+Projeto simples de formulário HTML que envia dados via requisição **POST em JSON** para uma API.
+
+## Nome do Aluno
+Denis
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- Fetch API
+
+## Funcionalidades
+
+- Formulário com 5 campos de nomes
+- Campo de texto para história do grupo
+- Envio via POST em JSON
+- Limpeza automática do formulário após envio
+- Alertas de sucesso ou erro
+
+## Estrutura do projeto
