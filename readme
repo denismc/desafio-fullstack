@@ -21,3 +21,21 @@ Denis
 - Alertas de sucesso ou erro
 
 ## Estrutura do projeto
+/projeto
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+## Endpoint utilizado
+POST https://fsdt-contact.onrender.com/contact
+
+
+Formato enviado:
+{
+"names": ["nome1", "nome2", "nome3"],
+"message": "história do grupo"
+}
+
